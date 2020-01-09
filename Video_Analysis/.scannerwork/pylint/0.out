@@ -1,0 +1,10 @@
+************* Module gui_component
+Models\gui_component.py:3: [C0305(trailing-newlines), ] Trailing newlines
+Models\gui_component.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+Models\gui_component.py:2: [C0103(invalid-name), ] Constant name "component" doesn't conform to UPPER_CASE naming style
+
+----------------------------------------------------------------------
+
+Your code has been rated at -20.00/10 (previous run: -20.00/10, +0.00)
+
+

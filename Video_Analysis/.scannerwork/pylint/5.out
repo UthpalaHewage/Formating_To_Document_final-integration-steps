@@ -1,0 +1,16 @@
+************* Module frame_dict_ops
+Shared\frame_dict_ops.py:20: [C0301(line-too-long), ] Line too long (106/100)
+Shared\frame_dict_ops.py:26: [C0301(line-too-long), ] Line too long (116/100)
+Shared\frame_dict_ops.py:7: [R0205(useless-object-inheritance), DictOps] Class 'DictOps' inherits from object, can be safely removed from bases in python3
+Shared\frame_dict_ops.py:18: [C0116(missing-function-docstring), DictOps.add_to_dict_from_figure] Missing function or method docstring
+Shared\frame_dict_ops.py:26: [C0116(missing-function-docstring), DictOps.add_to_dict_from_text_extract] Missing function or method docstring
+Shared\frame_dict_ops.py:26: [R0913(too-many-arguments), DictOps.add_to_dict_from_text_extract] Too many arguments (7/5)
+Shared\frame_dict_ops.py:41: [C0116(missing-function-docstring), DictOps.view_dict] Missing function or method docstring
+Shared\frame_dict_ops.py:64: [C0116(missing-function-docstring), DictOps.get_visual_info] Missing function or method docstring
+Shared\frame_dict_ops.py:70: [C0116(missing-function-docstring), DictOps.get_last_content] Missing function or method docstring
+
+------------------------------------------------------------------
+
+Your code has been rated at 7.69/10 (previous run: 7.69/10, +0.00)
+
+

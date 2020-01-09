@@ -1,0 +1,21 @@
+************* Module main_gui
+main_gui.py:55: [C0301(line-too-long), ] Line too long (104/100)
+main_gui.py:73: [C0301(line-too-long), ] Line too long (104/100)
+main_gui.py:77: [C0301(line-too-long), ] Line too long (105/100)
+main_gui.py:90: [C0301(line-too-long), ] Line too long (113/100)
+main_gui.py:98: [C0301(line-too-long), ] Line too long (101/100)
+main_gui.py:103: [C0301(line-too-long), ] Line too long (112/100)
+main_gui.py:111: [C0301(line-too-long), ] Line too long (106/100)
+main_gui.py:116: [C0301(line-too-long), ] Line too long (102/100)
+main_gui.py:136: [C0301(line-too-long), ] Line too long (116/100)
+main_gui.py:145: [C0301(line-too-long), ] Line too long (110/100)
+main_gui.py:27: [W0105(pointless-string-statement), ] String statement has no effect
+main_gui.py:61: [W0703(broad-except), add_text] Catching too general exception Exception
+main_gui.py:36: [R1705(no-else-return), add_text] Unnecessary "elif" after "return"
+main_gui.py:83: [W0703(broad-except), select_file_type] Catching too general exception Exception
+
+------------------------------------------------------------------
+
+Your code has been rated at 8.33/10 (previous run: 7.91/10, +0.43)
+
+

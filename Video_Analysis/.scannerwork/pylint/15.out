@@ -1,0 +1,13 @@
+************* Module text_extraction
+text_extraction.py:32: [C0301(line-too-long), ] Line too long (117/100)
+text_extraction.py:77: [C0301(line-too-long), ] Line too long (114/100)
+text_extraction.py:80: [C0301(line-too-long), ] Line too long (108/100)
+text_extraction.py:83: [C0301(line-too-long), ] Line too long (114/100)
+text_extraction.py:10: [R0205(useless-object-inheritance), TextExtraction] Class 'TextExtraction' inherits from object, can be safely removed from bases in python3
+text_extraction.py:40: [C0116(missing-function-docstring), TextExtraction.string_manipulation] Missing function or method docstring
+
+------------------------------------------------------------------
+
+Your code has been rated at 8.89/10 (previous run: 8.89/10, +0.00)
+
+

@@ -1,0 +1,62 @@
+************* Module borderless_figure_detector
+borderless_figure_detector.py:18: [C0301(line-too-long), ] Line too long (101/100)
+borderless_figure_detector.py:111: [C0325(superfluous-parens), ] Unnecessary parens after 'not' keyword
+borderless_figure_detector.py:162: [C0301(line-too-long), ] Line too long (113/100)
+borderless_figure_detector.py:180: [C0301(line-too-long), ] Line too long (117/100)
+borderless_figure_detector.py:194: [C0301(line-too-long), ] Line too long (118/100)
+borderless_figure_detector.py:212: [C0301(line-too-long), ] Line too long (110/100)
+borderless_figure_detector.py:11: [E1101(no-member), pre_process_image] Module 'cv2' has no 'normalize' member
+borderless_figure_detector.py:11: [E1101(no-member), pre_process_image] Module 'cv2' has no 'NORM_MINMAX' member
+borderless_figure_detector.py:13: [E1101(no-member), pre_process_image] Module 'cv2' has no 'Sobel' member
+borderless_figure_detector.py:13: [E1101(no-member), pre_process_image] Module 'cv2' has no 'CV_8U' member
+borderless_figure_detector.py:15: [E1101(no-member), pre_process_image] Module 'cv2' has no 'threshold' member
+borderless_figure_detector.py:15: [E1101(no-member), pre_process_image] Module 'cv2' has no 'THRESH_BINARY' member
+borderless_figure_detector.py:17: [E1101(no-member), pre_process_image] Module 'cv2' has no 'getStructuringElement' member
+borderless_figure_detector.py:17: [E1101(no-member), pre_process_image] Module 'cv2' has no 'MORPH_RECT' member
+borderless_figure_detector.py:18: [E1101(no-member), pre_process_image] Module 'cv2' has no 'morphologyEx' member
+borderless_figure_detector.py:18: [E1101(no-member), pre_process_image] Module 'cv2' has no 'MORPH_DILATE' member
+borderless_figure_detector.py:19: [E1101(no-member), pre_process_image] Module 'cv2' has no 'BORDER_REFLECT' member
+borderless_figure_detector.py:28: [E1101(no-member), find_text_boxes] Module 'cv2' has no 'findContours' member
+borderless_figure_detector.py:28: [E1101(no-member), find_text_boxes] Module 'cv2' has no 'RETR_LIST' member
+borderless_figure_detector.py:28: [E1101(no-member), find_text_boxes] Module 'cv2' has no 'CHAIN_APPROX_SIMPLE' member
+borderless_figure_detector.py:34: [E1101(no-member), find_text_boxes] Module 'cv2' has no 'boundingRect' member
+borderless_figure_detector.py:35: [C0103(invalid-name), find_text_boxes] Variable name "h" doesn't conform to snake_case naming style
+borderless_figure_detector.py:51: [C0103(invalid-name), find_table_in_boxes] Variable name "x" doesn't conform to snake_case naming style
+borderless_figure_detector.py:51: [C0103(invalid-name), find_table_in_boxes] Variable name "y" doesn't conform to snake_case naming style
+borderless_figure_detector.py:51: [C0103(invalid-name), find_table_in_boxes] Variable name "w" doesn't conform to snake_case naming style
+borderless_figure_detector.py:51: [C0103(invalid-name), find_table_in_boxes] Variable name "h" doesn't conform to snake_case naming style
+borderless_figure_detector.py:51: [W0612(unused-variable), find_table_in_boxes] Unused variable 'w'
+borderless_figure_detector.py:51: [W0612(unused-variable), find_table_in_boxes] Unused variable 'h'
+borderless_figure_detector.py:85: [C0103(invalid-name), build_lines] Variable name "x" doesn't conform to snake_case naming style
+borderless_figure_detector.py:86: [C0103(invalid-name), build_lines] Variable name "y" doesn't conform to snake_case naming style
+borderless_figure_detector.py:90: [C0103(invalid-name), build_lines] Variable name "x" doesn't conform to snake_case naming style
+borderless_figure_detector.py:91: [C0103(invalid-name), build_lines] Variable name "y" doesn't conform to snake_case naming style
+borderless_figure_detector.py:94: [C0103(invalid-name), build_lines] Variable name "x" doesn't conform to snake_case naming style
+borderless_figure_detector.py:94: [C0103(invalid-name), build_lines] Variable name "y" doesn't conform to snake_case naming style
+borderless_figure_detector.py:94: [C0103(invalid-name), build_lines] Variable name "w" doesn't conform to snake_case naming style
+borderless_figure_detector.py:94: [C0103(invalid-name), build_lines] Variable name "h" doesn't conform to snake_case naming style
+borderless_figure_detector.py:96: [C0103(invalid-name), build_lines] Variable name "x" doesn't conform to snake_case naming style
+borderless_figure_detector.py:96: [C0103(invalid-name), build_lines] Variable name "y" doesn't conform to snake_case naming style
+borderless_figure_detector.py:96: [C0103(invalid-name), build_lines] Variable name "w" doesn't conform to snake_case naming style
+borderless_figure_detector.py:96: [C0103(invalid-name), build_lines] Variable name "h" doesn't conform to snake_case naming style
+borderless_figure_detector.py:94: [W0612(unused-variable), build_lines] Unused variable 'w'
+borderless_figure_detector.py:94: [W0612(unused-variable), build_lines] Unused variable 'h'
+borderless_figure_detector.py:125: [C0103(invalid-name), get_main_points] Variable name "x1" doesn't conform to snake_case naming style
+borderless_figure_detector.py:125: [C0103(invalid-name), get_main_points] Variable name "y1" doesn't conform to snake_case naming style
+borderless_figure_detector.py:125: [C0103(invalid-name), get_main_points] Variable name "x2" doesn't conform to snake_case naming style
+borderless_figure_detector.py:125: [C0103(invalid-name), get_main_points] Variable name "y2" doesn't conform to snake_case naming style
+borderless_figure_detector.py:103: [R1710(inconsistent-return-statements), get_main_points] Either all return statements in a function should return an expression, or none of them should.
+borderless_figure_detector.py:103: [R0912(too-many-branches), get_main_points] Too many branches (13/12)
+borderless_figure_detector.py:148: [R0205(useless-object-inheritance), FigureDetectorBorderless] Class 'FigureDetectorBorderless' inherits from object, can be safely removed from bases in python3
+borderless_figure_detector.py:162: [C0116(missing-function-docstring), FigureDetectorBorderless.figure_detection_borderless] Missing function or method docstring
+borderless_figure_detector.py:162: [R0913(too-many-arguments), FigureDetectorBorderless.figure_detection_borderless] Too many arguments (6/5)
+borderless_figure_detector.py:162: [R0914(too-many-locals), FigureDetectorBorderless.figure_detection_borderless] Too many local variables (17/15)
+borderless_figure_detector.py:184: [E1101(no-member), FigureDetectorBorderless.figure_detection_borderless] Module 'cv2' has no 'imwrite' member
+borderless_figure_detector.py:204: [E1101(no-member), FigureDetectorBorderless.figure_detection_borderless] Module 'cv2' has no 'imwrite' member
+borderless_figure_detector.py:148: [R0903(too-few-public-methods), FigureDetectorBorderless] Too few public methods (1/2)
+
+--------------------------------------------------------------------
+
+Your code has been rated at -0.42/10 (previous run: -0.42/10, +0.00)
+
+

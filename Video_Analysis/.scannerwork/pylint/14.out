@@ -1,0 +1,37 @@
+************* Module text_contour_detector
+text_contour_detector.py:82: [C0301(line-too-long), ] Line too long (101/100)
+text_contour_detector.py:86: [C0301(line-too-long), ] Line too long (102/100)
+text_contour_detector.py:100: [C0301(line-too-long), ] Line too long (110/100)
+text_contour_detector.py:112: [C0301(line-too-long), ] Line too long (111/100)
+text_contour_detector.py:114: [C0301(line-too-long), ] Line too long (114/100)
+text_contour_detector.py:7: [R0205(useless-object-inheritance), TextContourDetector] Class 'TextContourDetector' inherits from object, can be safely removed from bases in python3
+text_contour_detector.py:17: [R0914(too-many-locals), TextContourDetector.contour_detection] Too many local variables (25/15)
+text_contour_detector.py:23: [E1101(no-member), TextContourDetector.contour_detection] Module 'cv2' has no 'findContours' member
+text_contour_detector.py:23: [E1101(no-member), TextContourDetector.contour_detection] Module 'cv2' has no 'RETR_EXTERNAL' member
+text_contour_detector.py:23: [E1101(no-member), TextContourDetector.contour_detection] Module 'cv2' has no 'CHAIN_APPROX_SIMPLE' member
+text_contour_detector.py:38: [E1101(no-member), TextContourDetector.contour_detection] Module 'cv2' has no 'boundingRect' member
+text_contour_detector.py:40: [C0103(invalid-name), TextContourDetector.contour_detection] Variable name "ar" doesn't conform to snake_case naming style
+text_contour_detector.py:46: [C0122(misplaced-comparison-constant), TextContourDetector.contour_detection] Comparison should be brect[3] > 35
+text_contour_detector.py:47: [C0122(misplaced-comparison-constant), TextContourDetector.contour_detection] Comparison should be brect[3] > 36
+text_contour_detector.py:71: [C0103(invalid-name), TextContourDetector.contour_detection] Variable name "x" doesn't conform to snake_case naming style
+text_contour_detector.py:71: [C0103(invalid-name), TextContourDetector.contour_detection] Variable name "y" doesn't conform to snake_case naming style
+text_contour_detector.py:71: [C0103(invalid-name), TextContourDetector.contour_detection] Variable name "w" doesn't conform to snake_case naming style
+text_contour_detector.py:71: [C0103(invalid-name), TextContourDetector.contour_detection] Variable name "h" doesn't conform to snake_case naming style
+text_contour_detector.py:71: [W0612(unused-variable), TextContourDetector.contour_detection] Unused variable 'w'
+text_contour_detector.py:17: [R0912(too-many-branches), TextContourDetector.contour_detection] Too many branches (14/12)
+text_contour_detector.py:86: [R0913(too-many-arguments), TextContourDetector.separate_contour] Too many arguments (8/5)
+text_contour_detector.py:106: [C0103(invalid-name), TextContourDetector.set_text] Variable name "r" doesn't conform to snake_case naming style
+text_contour_detector.py:110: [E1101(no-member), TextContourDetector.set_text] Module 'cv2' has no 'GaussianBlur' member
+text_contour_detector.py:112: [E1101(no-member), TextContourDetector.set_text] Module 'cv2' has no 'GaussianBlur' member
+text_contour_detector.py:114: [E1101(no-member), TextContourDetector.set_text] Module 'cv2' has no 'adaptiveThreshold' member
+text_contour_detector.py:114: [E1101(no-member), TextContourDetector.set_text] Module 'cv2' has no 'ADAPTIVE_THRESH_GAUSSIAN_C' member
+text_contour_detector.py:114: [E1101(no-member), TextContourDetector.set_text] Module 'cv2' has no 'THRESH_BINARY' member
+text_contour_detector.py:116: [E1101(no-member), TextContourDetector.set_text] Module 'cv2' has no 'dilate' member
+text_contour_detector.py:117: [E1101(no-member), TextContourDetector.set_text] Module 'cv2' has no 'erode' member
+text_contour_detector.py:103: [R0201(no-self-use), TextContourDetector.set_text] Method could be a function
+
+--------------------------------------------------------------------
+
+Your code has been rated at -1.21/10 (previous run: -1.21/10, +0.00)
+
+

@@ -1,0 +1,26 @@
+************* Module unique_frame_detector
+unique_frame_detector.py:19: [C0301(line-too-long), ] Line too long (117/100)
+unique_frame_detector.py:57: [C0301(line-too-long), ] Line too long (101/100)
+unique_frame_detector.py:58: [C0301(line-too-long), ] Line too long (109/100)
+unique_frame_detector.py:61: [C0301(line-too-long), ] Line too long (116/100)
+unique_frame_detector.py:75: [C0301(line-too-long), ] Line too long (104/100)
+unique_frame_detector.py:78: [C0301(line-too-long), ] Line too long (112/100)
+unique_frame_detector.py:6: [R0205(useless-object-inheritance), UniqueFrameDetector] Class 'UniqueFrameDetector' inherits from object, can be safely removed from bases in python3
+unique_frame_detector.py:19: [R0913(too-many-arguments), UniqueFrameDetector.detect_unique] Too many arguments (9/5)
+unique_frame_detector.py:19: [R0914(too-many-locals), UniqueFrameDetector.detect_unique] Too many local variables (20/15)
+unique_frame_detector.py:42: [E1101(no-member), UniqueFrameDetector.detect_unique] Module 'cv2' has no 'countNonZero' member
+unique_frame_detector.py:43: [E1101(no-member), UniqueFrameDetector.detect_unique] Module 'cv2' has no 'countNonZero' member
+unique_frame_detector.py:51: [C0103(invalid-name), UniqueFrameDetector.detect_unique] Variable name "x_" doesn't conform to snake_case naming style
+unique_frame_detector.py:52: [C0103(invalid-name), UniqueFrameDetector.detect_unique] Variable name "y_" doesn't conform to snake_case naming style
+unique_frame_detector.py:57: [E1101(no-member), UniqueFrameDetector.detect_unique] Module 'cv2' has no 'imwrite' member
+unique_frame_detector.py:58: [E1101(no-member), UniqueFrameDetector.detect_unique] Module 'cv2' has no 'imwrite' member
+unique_frame_detector.py:74: [E1101(no-member), UniqueFrameDetector.detect_unique] Module 'cv2' has no 'imwrite' member
+unique_frame_detector.py:75: [E1101(no-member), UniqueFrameDetector.detect_unique] Module 'cv2' has no 'imwrite' member
+unique_frame_detector.py:80: [E1101(no-member), UniqueFrameDetector.detect_unique] Module 'cv2' has no 'imshow' member
+unique_frame_detector.py:6: [R0903(too-few-public-methods), UniqueFrameDetector] Too few public methods (1/2)
+
+--------------------------------------------------------------------
+
+Your code has been rated at -0.93/10 (previous run: -0.93/10, +0.00)
+
+

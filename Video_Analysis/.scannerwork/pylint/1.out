@@ -1,0 +1,9 @@
+************* Module timestamp_list
+Models\timestamp_list.py:1: [C0114(missing-module-docstring), ] Missing module docstring
+Models\timestamp_list.py:2: [C0103(invalid-name), ] Constant name "time_stamp_list" doesn't conform to UPPER_CASE naming style
+
+----------------------------------------------------------------------
+
+Your code has been rated at -10.00/10 (previous run: -10.00/10, +0.00)
+
+

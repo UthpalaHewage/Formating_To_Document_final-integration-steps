@@ -1,0 +1,15 @@
+************* Module output_info_ops
+Shared\output_info_ops.py:21: [C0301(line-too-long), ] Line too long (106/100)
+Shared\output_info_ops.py:27: [C0301(line-too-long), ] Line too long (116/100)
+Shared\output_info_ops.py:45: [C0301(line-too-long), ] Line too long (103/100)
+Shared\output_info_ops.py:47: [C0301(line-too-long), ] Line too long (106/100)
+Shared\output_info_ops.py:6: [R0205(useless-object-inheritance), OutputDictOps] Class 'OutputDictOps' inherits from object, can be safely removed from bases in python3
+Shared\output_info_ops.py:13: [C0116(missing-function-docstring), OutputDictOps.create_dict] Missing function or method docstring
+Shared\output_info_ops.py:13: [R0912(too-many-branches), OutputDictOps.create_dict] Too many branches (14/12)
+Shared\output_info_ops.py:6: [R0903(too-few-public-methods), OutputDictOps] Too few public methods (1/2)
+
+------------------------------------------------------------------
+
+Your code has been rated at 7.84/10 (previous run: 7.30/10, +0.54)
+
+

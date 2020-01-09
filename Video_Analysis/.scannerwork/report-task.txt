@@ -1,0 +1,6 @@
+projectKey=FYP_Video_Analysis
+serverUrl=http://localhost:9000
+serverVersion=7.6.0.21501
+dashboardUrl=http://localhost:9000/dashboard?id=FYP_Video_Analysis
+ceTaskId=AW8dWcwHUdhvhbidy1MQ
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AW8dWcwHUdhvhbidy1MQ

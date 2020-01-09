@@ -1,0 +1,11 @@
+************* Module frame_seperator
+frame_seperator.py:9: [R0205(useless-object-inheritance), FrameSeperator] Class 'FrameSeperator' inherits from object, can be safely removed from bases in python3
+frame_seperator.py:28: [E1101(no-member), FrameSeperator.catch_video] Module 'cv2' has no 'VideoCapture' member
+frame_seperator.py:47: [E1101(no-member), FrameSeperator.seperator] Module 'cv2' has no 'CAP_PROP_POS_MSEC' member
+frame_seperator.py:53: [E1101(no-member), FrameSeperator.seperator] Module 'cv2' has no 'waitKey' member
+
+------------------------------------------------------------------
+
+Your code has been rated at 5.79/10 (previous run: 5.79/10, +0.00)
+
+

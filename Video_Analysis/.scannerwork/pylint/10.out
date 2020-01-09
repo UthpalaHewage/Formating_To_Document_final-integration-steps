@@ -1,0 +1,9 @@
+************* Module gui_ops
+gui_ops.py:8: [W0613(unused-argument), start_generation] Unused argument 'transcript_location'
+gui_ops.py:8: [W0613(unused-argument), start_generation] Unused argument 'save_location'
+
+------------------------------------------------------------------
+
+Your code has been rated at 5.00/10 (previous run: 5.00/10, +0.00)
+
+

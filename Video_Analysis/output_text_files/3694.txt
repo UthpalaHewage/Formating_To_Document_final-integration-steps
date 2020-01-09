@@ -1,0 +1,20 @@
+------------------------------------------------
+
+149.76
+
+------------------------------------------------
+
+PUNCTUATION
+
+------------------------------------------------
+
+Some sneaky and hungry goblins
+stole my food.
+Some sneaky, hungry goblins stole
+my food.
+
+Some hungry, sneaky goblins stole
+my food.
+
+------------------------------------------------
+

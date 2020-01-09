@@ -1,0 +1,11 @@
+************* Module unique_frame_detail
+Models\unique_frame_detail.py:7: [C0301(line-too-long), ] Line too long (116/100)
+Models\unique_frame_detail.py:4: [R0205(useless-object-inheritance), FrameDetail] Class 'FrameDetail' inherits from object, can be safely removed from bases in python3
+Models\unique_frame_detail.py:7: [R0913(too-many-arguments), FrameDetail.__init__] Too many arguments (8/5)
+Models\unique_frame_detail.py:4: [R0903(too-few-public-methods), FrameDetail] Too few public methods (0/2)
+
+------------------------------------------------------------------
+
+Your code has been rated at 5.56/10 (previous run: 5.56/10, +0.00)
+
+
